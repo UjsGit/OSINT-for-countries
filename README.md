@@ -76,7 +76,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Resources for Hungary](https://start.me/p/kxGLzd/hun-osint)
 
 ## India 
-
+- [Find Government Services](https://services.india.gov.in/?ln=en)
 - [OSINT resources in India](https://start.me/p/vjR5wL/osint-resources-in-india)
 
 ## Iran
